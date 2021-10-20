@@ -1,0 +1,10 @@
+{
+    "name": "Michael Ikechukwu Adigwe",
+    "short_name": "MIA",
+    "description": "Michael Ikechukwu Adigwe is an experienced web developer and an aspiring A.I Engineer with a demonstrated history of working in the computer software industry. Skilled in Python, modern javascript, NodeJS and VueJs. Strong engineering professional currently pursuing a Bachelors in Computer Engineering from University of Lagos.",
+    "display": "standalone",
+    "theme_color": "#040404",
+    "background_color": "#040404",
+    "start_url": "index.html",
+    "icons": []
+}
